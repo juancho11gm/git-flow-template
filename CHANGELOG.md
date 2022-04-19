@@ -1,1 +1,2 @@
 - release/1.0.0 (feat 1 & 2)
+- release/2.0.0 (feat 3)
